@@ -8,6 +8,7 @@ public class Practice {
 	public void testing()
 	{
 		System.out.println("siddhant is working on testn");
+		System.out.println("Simant");
 	}
 
 }
